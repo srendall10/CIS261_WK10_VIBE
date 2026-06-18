@@ -1,3 +1,7 @@
+#Sandra Rendall Tavares
+#CIS261
+#WK10 VIBE Coding
+
 """Student record manager for test scores and grade calculation."""
 
 from __future__ import annotations
